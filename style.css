@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(15, 102, 124);
+    color: rgb(255, 255, 255);
+    font-family: "New Amsterdam", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(11, 24, 66);
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
